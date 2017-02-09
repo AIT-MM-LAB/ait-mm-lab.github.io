@@ -2,3 +2,5 @@ baseurl = "http://ait-mm-lab.github.io"
 title = "AIT MM-LAB Tech Blog"
 languageCode = "ja-jp"
 theme = "hikari"
+
+canonifyurls = true
