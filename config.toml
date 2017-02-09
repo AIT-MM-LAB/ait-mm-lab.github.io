@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://ait-mm-lab.github.io"
 title = "AIT MM-LAB Tech Blog"
 languageCode = "ja-jp"
 theme = "hikari"
