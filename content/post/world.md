@@ -1,6 +1,5 @@
 +++
 title = "world"
-draft = true
 date = "2017-02-09"
 +++
 
