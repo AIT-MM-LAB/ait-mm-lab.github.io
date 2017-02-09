@@ -4,3 +4,5 @@ languageCode = "ja-jp"
 theme = "hikari"
 
 canonifyurls = true
+pageNotFoundTitle = " "
+pageNotFoundSubtitle = " "
